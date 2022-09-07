@@ -4,6 +4,9 @@ Test django app for testing the deployment using nginx( reverse proxy ( serve st
 
 ---
 
+> This is a refference django app to test how to impliment  SSL secured connection with Let's Encrypt-certbot, NGINX, uWSGI, and aws EC2 deployment with docker-compose.
+
+---
 ### Services
 
 - NGINX
