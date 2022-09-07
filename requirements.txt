@@ -1,0 +1,10 @@
+-i https://pypi.org/simple
+
+asgiref==3.5.2
+
+django==4.1.1
+
+sqlparse==0.4.2
+
+tzdata==2022.2
+uWSGI>=2.0.20,<2.1.1
